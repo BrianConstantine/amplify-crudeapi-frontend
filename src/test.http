@@ -1,0 +1,4 @@
+
+GET  https://4mjrku43sb.execute-api.us-east-1.amazonaws.com/prod/items/123
+Content-Type: application/json
+
